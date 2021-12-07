@@ -3,7 +3,7 @@ Hotel Booking Prediction Modeling and Strategy.
 
 
 # Problem Statment 
-    Levarage Guest data and Booking Behaviour patterns to devise a strategy for Hotel Revenue Management using data science and machine learning 
+    Leverage Guest data and Booking Behaviour patterns to devise a strategy for Hotel Revenue Management using data science and machine learning 
     
     
 # Summary

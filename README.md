@@ -1,5 +1,5 @@
 # Hotel-Bookings
-Hotel Booking Prediction Modeling and Strategy. 
+Hotel Booking Cancellation Prediction Modeling and Strategy. 
 
 
 # Problem Statment 
@@ -8,10 +8,12 @@ Hotel Booking Prediction Modeling and Strategy.
     
 # Summary
 In hotels, many people books the rooms and then at the and they apply for ticket cancellation and refunds. The hotels give them a refund on the basis of the days before arrival. At last, the customer is satisfied to get the refund he got but the hotel usually bears a load of loss as the hotel has a 40% to 50% of the booking amount but the room is most likely going to be empty so it could have been booked for another guest if the cancellation was done before the deadline or as early as possible.
+![1_Zgkfaob2EG49YVin7Biu4w](https://user-images.githubusercontent.com/45498501/179996251-bb88d38c-d7c7-4adf-80e9-658670cadb7d.jpeg)
 
 In this project i created a model to find the guests who are most likely going to cancel their hotel booking. I also find the target population on whom we should focus more and how to target them.
 
-This project can help the hotels to boost their revenue as the hotel rooms can be given to another person if the cancelation is confirmed before some time and not at the last moments.
+This project can help the hotels to boost their revenue as the hotel rooms can be given to another person if the cancelation is confirmed before some time and not at the last moments. As after cancellation refund can also be given.
+![31966359757_e6e570dc97_o-scaled-e1642531129404-1024x576](https://user-images.githubusercontent.com/45498501/179997069-d729d960-aa64-40b0-b3c3-d3f1634a7e07.jpg)
 
 
 # Dataset
@@ -44,6 +46,8 @@ This project can help the hotels to boost their revenue as the hotel rooms can b
     reservation_status             : Status of reservation.
     reservation_status_date        : date of reservation status.
     
+  ![adr](https://user-images.githubusercontent.com/45498501/179996023-f5a19f3d-6aad-4db6-a103-7a47512c68fc.png)
+
     
         
 # Recommendation
